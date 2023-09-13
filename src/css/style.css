@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Roboto&family=Roboto+Slab&family=Space+Mono&display=swap');
+
+:root {
+    --color-red: #F87070;
+    --color-blue: #70F3F8;
+    --color-purple: #D881F8;
+    --color-wheat: #D7E0FF;
+    --primary-bg: #1E213F;
+    --secondary-bg: #161932;
+    --color-white: #FFFFFF;
+    --color-white2: #EFF1FA;
+
+    --font-kumbh: 'Kumbh Sans', sans-serif;
+    --font-roboto-slab: 'Roboto Slab', serif;
+    --font-space-mono: 'Space Mono', monospace;
+}
